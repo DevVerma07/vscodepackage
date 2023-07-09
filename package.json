@@ -1,0 +1,32 @@
+{
+  "name": "dev-s-extension-pack",
+  "displayName": "Dev's Extension pack",
+  "description": "for laravel developers.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-extension-repo.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "amitchandrakar.laravel",
+    "bebo925.livewire-switcher",
+    "cierra.livewire-vscode",
+    "codezombiech.gitignore",
+    "ctf0.vscode-terminal-themes",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "GitHub.github-vscode-theme",
+    "IBM.output-colorizer",
+    "kamikillerto.vscode-colorize",
+    "lennardv.livewire-goto-updated",
+    "oderwat.indent-rainbow",
+    "stivo.tailwind-fold",
+    "teabyii.ayu"
+  ]
+}
