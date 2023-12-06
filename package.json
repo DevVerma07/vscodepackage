@@ -2,7 +2,7 @@
   "name": "dev-s-extension-pack",
   "displayName": "Laravel Dev Pack",
   "description": "⚡️ Supercharge your Laravel development! ⚡️",
-  "icon": "https://postimg.cc/sGZgtdp5",
+  "icon": "image/Laravel-Logo.png",
   "version": "1.0.2",
   "repository": {
     "type": "git",
