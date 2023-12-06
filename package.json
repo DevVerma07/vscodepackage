@@ -2,8 +2,9 @@
   "name": "dev-s-extension-pack",
   "displayName": "Laravel Dev Pack",
   "description": "⚡️ Supercharge your Laravel development! ⚡️",
-  "icon": "image/Laravel-Logo.png",
+  "icon": "images/Laravel-Logo.png",
   "version": "1.0.2",
+  "publisher": "devkumarverma",
   "repository": {
     "type": "git",
     "url": "https://github.com/your-username/your-extension-repo.git"
@@ -29,14 +30,14 @@
     "oderwat.indent-rainbow",
     "stivo.tailwind-fold",
     "teabyii.ayu",
-        "adrianwilczynski.alpine-js-intellisense",
-        "webdevsavvy.livewire-intellisense",
-        "AlperenErsoy.filament-snippets",
-        "mongodb.mongodb-vscode",
-        "MrChetan.phpstorm-parameter-hints-in-vscode",
-        "burkeholland.simple-react-snippets",
-        "GitHub.copilot",
-        "dsznajder.es7-react-js-snippets",
-        "cweijan.vscode-mysql-client2"
-      ]
+    "adrianwilczynski.alpine-js-intellisense",
+    "webdevsavvy.livewire-intellisense",
+    "AlperenErsoy.filament-snippets",
+    "mongodb.mongodb-vscode",
+    "MrChetan.phpstorm-parameter-hints-in-vscode",
+    "burkeholland.simple-react-snippets",
+    "GitHub.copilot",
+    "dsznajder.es7-react-js-snippets",
+    "cweijan.vscode-mysql-client2"
+  ]
 }
