@@ -28,6 +28,15 @@
     "lennardv.livewire-goto-updated",
     "oderwat.indent-rainbow",
     "stivo.tailwind-fold",
-    "teabyii.ayu"
-  ]
+    "teabyii.ayu",
+        "adrianwilczynski.alpine-js-intellisense",
+        "webdevsavvy.livewire-intellisense",
+        "AlperenErsoy.filament-snippets",
+        "mongodb.mongodb-vscode",
+        "MrChetan.phpstorm-parameter-hints-in-vscode",
+        "burkeholland.simple-react-snippets",
+        "GitHub.copilot",
+        "dsznajder.es7-react-js-snippets",
+        "cweijan.vscode-mysql-client2"
+      ]
 }
