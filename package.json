@@ -1,8 +1,9 @@
 {
   "name": "dev-s-extension-pack",
-  "displayName": "Dev's Extension pack",
-  "description": "for laravel developers.",
-  "version": "0.0.1",
+  "displayName": "Laravel Dev Pack",
+  "description": "⚡️ Supercharge your Laravel development! ⚡️",
+  "icon": "https://postimg.cc/sGZgtdp5",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/your-username/your-extension-repo.git"
